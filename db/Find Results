@@ -1,0 +1,26 @@
+Searching 121 files for "phonne_number" (case sensitive)
+
+/Users/pierreetiennebordenave/code/peborde/rails-yelp-mvp/db/development.sqlite3:
+    <binary>
+
+/Users/pierreetiennebordenave/code/peborde/rails-yelp-mvp/db/migrate/20191106110905_create_restaurants.rb:
+    4        t.string :name
+    5        t.string :address
+    6:       t.integer :phone_number
+    7        t.text :category
+    8
+
+/Users/pierreetiennebordenave/code/peborde/rails-yelp-mvp/test/fixtures/restaurants.yml:
+    4    name: MyString
+    5    address: MyString
+    6:   phone_number: 1
+    7    category: MyText
+    8
+    .
+   10    name: MyString
+   11    address: MyString
+   12:   phone_number: 1
+   13    category: MyText
+   14
+
+4 matches across 3 files
